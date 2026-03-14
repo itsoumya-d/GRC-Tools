@@ -157,6 +157,15 @@ An open-source GRC platform designed to simplify the management of governance, r
   - Framework-agnostic and adaptable to organizational needs.
 - **Repository**: [Incident Response Playbook GitHub](https://github.com/incident-response-playbook)
 
+### **16. CertiFlow AI**
+- **Description**: An open-source agentic GRC platform that uses AI agents (Gemini Computer Use) to continuously verify SOC 2 and ISO 27001 compliance controls. Automates evidence collection, control testing, and audit-readiness workflows 24/7.
+- **Key Features**:
+  - Autonomous AI agents for continuous compliance monitoring.
+  - Supports SOC 2 and ISO 27001 frameworks out of the box.
+  - RBAC with NextAuth.js, real-time updates via Server-Sent Events.
+  - Built with Next.js 14 + TypeScript, MIT license.
+- **Repository**: [CertiFlow AI GitHub](https://github.com/itsoumya-d/certiflow-ai)
+
 ---
 
 ## **GRC Tools Analysis**
